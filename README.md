@@ -1,7 +1,5 @@
 ## Hi, I am MY 👋 ##
-I am a digital nomad recovering from some PTSD after working at a previous Web3 startup.
-
-I am building 10 personal projects with Claude, including:
+Building 10 personal projects with Claude, including:
 
   1. **[What Time Fits](https://what-time-fits.vercel.app)**  
      A revival of a beloved Figma plugin for scheduling across time zones.
