@@ -1,7 +1,7 @@
 ## Hi, I am MY 👋 ##
 Building 10 personal projects with Claude, including:
 
-  1. **[What Time Fits](https://what-time-fits.vercel.app)**  
+  1. **[What Time](https://get-what-time.vercel.app)**  
      A revival of a beloved Figma plugin for scheduling across time zones.
 
   2. **Mangala App**  
