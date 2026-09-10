@@ -7,5 +7,5 @@ Building 10 personal projects with Claude, including:
   2. **[Mangala App](https://apps.apple.com/us/app/mangala-ashtanga-yoga-journal/id6785357991)**  
      A quiet companion for Ashtanga yoga practice.
      
-  3. **[Paws & Stretch]**  
+  3. **Paws & Stretch**  
        A desktop companion for healthier working habits
